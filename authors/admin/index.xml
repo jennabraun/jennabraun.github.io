@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JB</title>
+    <link>https://jennabraun.github.io/authors/admin/</link>
+      <atom:link href="https://jennabraun.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>JB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>JB 2019</copyright><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jennabraun.github.io/media/icon-32.png</url>
+      <title>JB</title>
+      <link>https://jennabraun.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Video technologies aid in the study of foundation plants: A case example using a shrub annual facilitation system</title>
+      <link>https://jennabraun.github.io/publication/nps-newsletter/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jennabraun.github.io/publication/nps-newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the bees knees: A conceptual framework and systematic review of the mechanisms of pollinator-mediated facilitation</title>
+      <link>https://jennabraun.github.io/datasets/rdm-project/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jennabraun.github.io/datasets/rdm-project/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finding the bees knees: A conceptual framework and systematic review of the mechanisms of pollinator-mediated facilitation</title>
+      <link>https://jennabraun.github.io/publication/braun-and-lortie-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jennabraun.github.io/publication/braun-and-lortie-2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

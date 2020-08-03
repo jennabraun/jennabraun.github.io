@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mojave desert | JB</title>
+    <link>https://jennabraun.github.io/tags/mojave-desert/</link>
+      <atom:link href="https://jennabraun.github.io/tags/mojave-desert/index.xml" rel="self" type="application/rss+xml" />
+    <description>mojave desert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>JB 2019</copyright><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jennabraun.github.io/media/icon-32.png</url>
+      <title>mojave desert</title>
+      <link>https://jennabraun.github.io/tags/mojave-desert/</link>
+    </image>
+    
+    <item>
+      <title>Video technologies aid in the study of foundation plants: A case example using a shrub annual facilitation system</title>
+      <link>https://jennabraun.github.io/publication/nps-newsletter/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://jennabraun.github.io/publication/nps-newsletter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

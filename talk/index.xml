@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | JB</title>
+    <link>https://jennabraun.github.io/talk/</link>
+      <atom:link href="https://jennabraun.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>JB 2019</copyright><lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jennabraun.github.io/media/icon-32.png</url>
+      <title>Talks</title>
+      <link>https://jennabraun.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Spatial association patterns of foundational plants in the east Mojave desert</title>
+      <link>https://jennabraun.github.io/talk/cnps2018/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://jennabraun.github.io/talk/cnps2018/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;In arid environments shrubs can act askeystone facilitators, directly benefiting their neighbors via multiple mechanistic pathways such as stress amelioration, seed trapping and improved water and nutrient availability. This can influence the spatial distribution of the beneficiary, resulting in increased occurrences in close proximity to the nurse plant. Nurse-protégé relationships have been documented between some species of shrubs and cacti but their species-specificity in diverse shrub lands is less explored. To capture spatial associations between desert shrubs and cacti, I mapped all individuals within three 80m by 20m plots and measured their heights and widest axes; a total of 1714 plants comprised of 5 species of cacti and 15 species of shrubs. The site is located within the Granite Mountains of the east Mojave Desert and supports a high diversity of common shrubs and cacti. It is populated by known nurse species that are co-dominant within this site, but often dominant elsewhere including Larrea tridentata(Zygophyllaceae) and Ephedra(Ephedraceae). The aim of this project is to determine if co-dominant plant associations are better explained by the presence, identity or size of a neighbor, and to look for spatial patterns that suggest facilitation between desert perennials. This project will increase our understanding of community assembly patterns of native Californian vegetation and better inform conservation practices for cacti in arid shrublands.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
