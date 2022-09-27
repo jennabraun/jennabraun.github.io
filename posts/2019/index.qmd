@@ -1,0 +1,240 @@
+---
+title: "Diversity data wrangling for the vegan package"
+description: "Tutorial in R for formatting data for analysis in the vegan package"
+date: "10/4/2019"
+categories:
+  - analysis
+  - R
+  - ecology
+  - data wrangling
+---
+
+This inaugural blog post documents simple pieces of code I have used again and again when studying insect communities. The [vegan package](https://cran.r-project.org/web/packages/vegan/index.html) has a suite of tools suitable for community ecology analyses and is my first stop when analyzing a new dataset.
+
+For new users, its functionality can be daunting because many
+functions require two, very differently formatted dataframes as input.
+The first is a community data matrix in a wide format. For
+demonstration, I will be using a dataset of ant morphospecies abundances
+from Californian arid ecosystems that I collected during a three-week
+survey Spring 2019.
+
+```{r, error = FALSE, warning = FALSE, message = FALSE, results = "hide"}
+library(tidyverse)
+library(vegan)
+library(DT)
+ants <- read.csv("desertants.csv")
+```
+
+
+### Introduction
+
+This is what the dataset looks like. It is in \'long\' format, meaning each species and its abundance is in one row. A single sample can have multiple rows, one for each species. This is the format I use when
+working through sample vials IDing insects.
+
+```{r, echo = FALSE}
+font.size <- "10pt"
+ants %>% datatable(
+     options=list(
+       initComplete = htmlwidgets::JS(
+          "function(settings, json) {",
+          paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+          "}")
+       ) 
+     )
+```
+
+
+Vegan requires a wide format, where the species are columns and there is
+only one sample per row. In this case I need to clean the data first,
+and then converting it into a wide format is straightforward using
+tidyr.
+
+
+```{r}
+str(ants)
+```
+
+### Wrangle the species dataset
+
+Microsite is the location the traps were placed. I can see from
+str(ants) that there are errors in the data because there should only be
+three microsites. Inputting data into excel often introduces invisible
+blank spaces
+
+
+```{r}
+#remove the blanks
+ants$Microsite <- gsub(" ", "", ants$Microsite)
+
+#replace all instances of the string 'shrub' with 'ephedra'
+ants$Microsite <- gsub("shrub", "ephedra", ants$Microsite)
+
+#convert to a factor
+ants$Microsite <- as.factor(ants$Microsite)
+```
+
+
+Next we need a unique sample identifier. I\'m using site + microsite + rep.
+
+
+```{r}
+ants$uniID <- paste(ants$Site, ants$Microsite, ants$Rep)
+```
+
+
+Drop all columns except the sample identifier, species identity and abundance and spread the data.
+
+
+```{r}
+ants <- ants %>% select(uniID, morphospecies, Quantity) 
+
+#aggregrate observations for the same species 
+#if there are multiple vials for the same rep
+
+ants <- ants %>% group_by(uniID, morphospecies) %>% summarise(Quantity = sum(Quantity)) 
+
+
+#spread data into wide format
+
+comm <- ants %>% spread(morphospecies, Quantity)
+
+#drop the identifier and any unwanted species. 
+#In this case I am excluding reproductive alates 
+#because I couldn't assign them to morphospecies 
+
+comm <- ungroup(comm) %>% select(.,-"alate NA", -"ignore NA")
+
+#replace the NAs with zeros
+comm[is.na(comm)] <- 0
+```
+
+
+This is what the data looks like in wide format: Sites are rows and species are columns.
+
+<style>
+table {
+  white-space: nowrap;
+}
+</style>
+
+```{r, echo = FALSE}
+font.size <- "10pt"
+comm %>% datatable(
+     options=list(
+       initComplete = htmlwidgets::JS(
+          "function(settings, json) {",
+          paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+          "}")
+       ) 
+     )
+```
+
+### Wrangle the environemental dataset
+
+```{r}
+cov <- read.csv("cov.csv")
+```
+
+```{r, echo=FALSE}
+font.size <- "10pt"
+cov %>% datatable(
+     options=list(
+       initComplete = htmlwidgets::JS(
+          "function(settings, json) {",
+          paste0("$(this.api().table().container()).css({'font-size': '", font.size, "'});"),
+          "}")
+       ) 
+     )
+
+```
+
+
+It has far more rows than the community dataset because it is part of a
+larger project. The column PF specifies if a pitfall trap was placed at
+that location.
+
+```{r}
+#first remove all the rows without pitfall traps
+cov <- filter(cov, PF == "Y")
+
+#create a unique identifier to match the community data row names
+cov$uniID <- paste(cov$site, cov$Microsite, cov$ID)
+```
+
+### Dealing with sites with no species
+
+How you proceed after this point depends on whether you have samples
+with zero specimens. This dataset has zeroes and most tutorials ignore
+that zeroes happen in real datasets.
+
+First, determine which pitfall samples had zero specimens using dplyr\'s antijoin()
+
+```{r}
+#put the covariate dataset first
+zeroes <- anti_join(cov, comm, by = "uniID")
+str(zeroes)
+
+#15 observations had zero ants
+```
+
+Add the empty samples to the community dataframe and populate with zeroes
+
+```{r}
+zeroes <- select(zeroes, "uniID")
+comm <- bind_rows(comm, zeroes)
+comm[is.na(comm)] <- 0
+```
+
+Match the order of the two datasets
+
+```{r}
+all.equal(comm$uniID, cov$uniID)
+
+#need to reorder them
+comm <- comm[match(cov$uniID, comm$uniID),]
+all.equal(comm$uniID, cov$uniID)
+```
+
+```{r}
+#drop the unique identifier column from community dataframe
+comm <- select(comm, -uniID)
+```
+
+
+### Alpha diversity calculations
+
+Calculate abundance, species richness,Shannon & Simpson\'s index, and
+evenness and bind these indices to the covariate dataframe for
+visualization and modelling
+
+```{r}
+cov$abundance <- apply(comm, 1, sum)
+#check that the total is what you expect
+sum(cov$abundance)
+
+H <- diversity(comm)
+simp <- diversity(comm, "simpson")
+S <- specnumber(comm)
+J <- H/log(S)
+cov$H <- H
+cov$Simpson <- simp
+cov$Species <- S
+cov$Even <- J
+```
+
+Done!
+
+```{r}
+ggplot(cov, aes(Microsite, Species)) + geom_boxplot() + ylab("Ant Species Richness")
+```
+
+### RDA example
+
+```{r}
+comm <- decostand(comm, "hellinger")
+
+p1 <- rda(comm ~ cov$Microsite + cov$rdm.cov)
+p1
+
+anova.cca(p1)
+```

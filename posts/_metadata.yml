@@ -1,0 +1,8 @@
+# options apply to all posts in this folder
+
+# freeze computational output
+freeze: true
+
+# Table of content settings
+toc: true
+toc-depth: 3

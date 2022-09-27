@@ -9,12 +9,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Blog
       - about.qmd
+      - research.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
