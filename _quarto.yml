@@ -8,9 +8,9 @@ website:
   title: "jennabraun.github.io"
   navbar:
     left:
+      - about.qmd
       - href: index.qmd
         text: Blog
-      - about.qmd
       - research.qmd
 
 format:

@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: ""
+image: portrait.jpg
 about:
   template: jolla
   links:
@@ -10,9 +10,22 @@ about:
     # (additional links excluded for brevity)
 ---
 
-## About this blog
+### Jenna Braun
 
-This is the contents of the about page for my blog.
+## Interests
+
+  * Data science in R
+  * GIS
+  * Quantitative Analyses
+  * Community Ecology
+  * Plant-insect Interactions
+
+
+## Education
+
+  * PhD. candidate, Biology, York University (current)
+  * MSc in Biology, 2018, York University
+  * HBSc in Biology and Environmental Science, minor in Geographic Information Systems, 2016, McMaster University
 ---
 
 ```{}
