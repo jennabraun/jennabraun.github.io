@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/jleebraun
     # (additional links excluded for brevity)
 ---
 
@@ -26,10 +26,6 @@ about:
 
 -   MSc in Biology, 2018, York University
 
--   
+-   HBSc in Biology and Environmental Science, minor in Geographic Information Systems, 2016, McMaster University
 
-    ## HBSc in Biology and Environmental Science, minor in Geographic Information Systems, 2016, McMaster University
-
-```{=html}
 <!-- -->
-```

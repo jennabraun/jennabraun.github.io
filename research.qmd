@@ -2,3 +2,39 @@
 title: "Research"
 editor: visual
 ---
+
+## Current Research
+
+For my PhD. research I synthesize field data with spatial data collected from remote sensing satelites and big biodiversity databases to answer questions on ant community assembly. My goal is to understand the ecological relationships that connect factors measured at tiny scales like ant morphological traits and large scales like species ranges.
+
+## Past Research
+
+### **Pollinator-mediated facilitation**
+
+**Braun, J**., & Lortie, C. J. (2022). Drivers of plant individual-based pollinator visitation network topology in an arid ecosystem. *Ecological Complexity*, *50*, 101003. [Link to article](https://www.sciencedirect.com/science/article/pii/S1476945X22000253?casa_token=ehB2JD5ItB4AAAAA:hTUGpgHe0hRjxQuo8OH7g1ta22ghkdfNXvBe0w0oNG5vrPr1kuEB7nEuDjEqCDMx_9xfAbKQDw)
+
+**Braun, J**., & Lortie, C. J. (2020). Facilitation with a grain of salt: reduced pollinator visitation is an indirect cost of association with the foundation species creosote bush (*Larrea tridentata*). *American journal of botany*, *107*(10), 1342-1354. [Link to article](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajb2.1533)
+
+**Braun, J**., & Lortie, C. J. (2019). Finding the bees knees: a conceptual framework and systematic review of the mechanisms of pollinator-mediated facilitation. *Perspectives in Plant Ecology, Evolution and Systematics*, *36*, 33-40. [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S1433831918300362)
+
+### Desert species interactions and habitat associations
+
+**Braun, J**., Westphal, M., & Lortie, C. J. (2021). The shrub Ephedra californica facilitates arthropod communities along a regional desert climatic gradient. *Ecosphere*, *12*(9), e03760. [Link to article](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3760)
+
+Lortie, C. J., **Braun, J**., Westphal, M., Noble, T., Zuliani, M., Nix, E., \... & Scott Butterfield, H. (2020). Shrub and vegetation cover predict resource selection use by an endangered species of desert lizard. *Scientific reports*, *10*(1), 1-7. [Link to article](https://www.nature.com/articles/s41598-020-61880-9)
+
+Lortie, C. J., Zuliani, M., Ghazian, N., Haas, S., **Braun, J.**, Owen, M., \... & Lucero, J. (2021). Too much of a good thing: Shrub benefactors are less important in higher diversity arid ecosystems. *Journal of Ecology*, *109*(5), 2047-2053. [Link to article](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.13596?casa_token=hzE4E9N2v2YAAAAA:JgFC3P4PgbjrtPEPoU-xssoCfwy-jwPNgQiglL6KMlo3xQn8D1HX6Md6fh03eUmyPAk-ClUbUAGBjw)
+
+### R and data science
+
+Lortie, C. J., **Braun, J**., Filazzola,
+A., & Miguel, F. (2020). A checklist for choosing between R packages
+in ecology and evolution. *Ecology and Evolution*, *10*(3), 1098-1105. [Link to article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.5970)
+
+### **Impact of *Bromus rubens* invasion on native annual species**
+
+Pik, D., Lucero, J. E., Lortie, C. J.,& **Braun, J**. (2020). Light intensity and seed density differentially
+affect the establishment, survival, and biomass of an exotic invader
+and three species of native competitors. *Community Ecology*, *21*(3), 259-272. [Link to article](https://link.springer.com/article/10.1007/s42974-020-00027-2)
+
+Ghazian, N., **Braun, J**., Owen, M., Lortie, C. J., & Cho, C. (2021). Seed aggregation tips the scale in plant competition. *Community Ecology*, *22*(3), 403-412. [Link to article](https://link.springer.com/content/pdf/10.1007/s42974-021-00064-5.pdf)
