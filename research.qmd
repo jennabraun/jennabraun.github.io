@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Interests"
 editor: visual
 ---
 
@@ -9,7 +9,7 @@ For my PhD. research I synthesize field data with spatial data collected from re
 
 ## Past Research
 
-### **Pollinator-mediated facilitation**
+### Pollinator-mediated facilitation
 
 **Braun, J**., & Lortie, C. J. (2022). Drivers of plant individual-based pollinator visitation network topology in an arid ecosystem. *Ecological Complexity*, *50*, 101003. [Link to article](https://www.sciencedirect.com/science/article/pii/S1476945X22000253?casa_token=ehB2JD5ItB4AAAAA:hTUGpgHe0hRjxQuo8OH7g1ta22ghkdfNXvBe0w0oNG5vrPr1kuEB7nEuDjEqCDMx_9xfAbKQDw)
 
@@ -31,7 +31,7 @@ Lortie, C. J., **Braun, J**., Filazzola,
 A., & Miguel, F. (2020). A checklist for choosing between R packages
 in ecology and evolution. *Ecology and Evolution*, *10*(3), 1098-1105. [Link to article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.5970)
 
-### **Impact of *Bromus rubens* invasion on native annual species**
+### Impact of *Bromus rubens* invasion on native annual species
 
 Pik, D., Lucero, J. E., Lortie, C. J.,& **Braun, J**. (2020). Light intensity and seed density differentially
 affect the establishment, survival, and biomass of an exotic invader
