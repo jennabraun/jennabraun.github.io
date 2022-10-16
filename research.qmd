@@ -27,14 +27,10 @@ Lortie, C. J., Zuliani, M., Ghazian, N., Haas, S., **Braun, J.**, Owen, M., \...
 
 ### R and data science
 
-Lortie, C. J., **Braun, J**., Filazzola,
-A., & Miguel, F. (2020). A checklist for choosing between R packages
-in ecology and evolution. *Ecology and Evolution*, *10*(3), 1098-1105. [Link to article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.5970)
+Lortie, C. J., **Braun, J**., Filazzola, A., & Miguel, F. (2020). A checklist for choosing between R packages in ecology and evolution. *Ecology and Evolution*, *10*(3), 1098-1105. [Link to article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.5970)
 
 ### Impact of *Bromus rubens* invasion on native annual species
 
-Pik, D., Lucero, J. E., Lortie, C. J.,& **Braun, J**. (2020). Light intensity and seed density differentially
-affect the establishment, survival, and biomass of an exotic invader
-and three species of native competitors. *Community Ecology*, *21*(3), 259-272. [Link to article](https://link.springer.com/article/10.1007/s42974-020-00027-2)
+Pik, D., Lucero, J. E., Lortie, C. J.,& **Braun, J**. (2020). Light intensity and seed density differentially affect the establishment, survival, and biomass of an exotic invader and three species of native competitors. *Community Ecology*, *21*(3), 259-272. [Link to article](https://link.springer.com/article/10.1007/s42974-020-00027-2)
 
 Ghazian, N., **Braun, J**., Owen, M., Lortie, C. J., & Cho, C. (2021). Seed aggregation tips the scale in plant competition. *Community Ecology*, *22*(3), 403-412. [Link to article](https://link.springer.com/content/pdf/10.1007/s42974-021-00064-5.pdf)

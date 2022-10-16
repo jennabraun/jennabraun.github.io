@@ -2,7 +2,8 @@
 title: ""
 image: portrait.jpg
 about:
-  template: jolla
+  template: trestles
+  image-shape: round
   links:
     - icon: twitter
       text: Twitter
