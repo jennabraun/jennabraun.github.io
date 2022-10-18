@@ -6,7 +6,6 @@ project:
 
 website:
   title: "jennabraun.github.io"
-  google-analytics: G-FTHFDYLV3H
   navbar:
     left:
       - href: about.qmd
@@ -14,7 +13,7 @@ website:
       - href: index.qmd
         text: Blog
       - research.qmd
-
+  google-analytics: "G-FTHFDYLV3H"
 format:
   html:
     theme: journal
