@@ -13,9 +13,7 @@ website:
       - href: index.qmd
         text: Blog
       - research.qmd
-  google-analytics: 
-    tracking-id: "G-FTHFDYLV3H"
-    storage: none
+
 
 format:
   html:
