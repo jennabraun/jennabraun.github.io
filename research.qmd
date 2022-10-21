@@ -4,17 +4,6 @@ editor: visual
 ---
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTHFDYLV3H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FTHFDYLV3H');
-</script>
-
-
 ## Current Research
 
 For my PhD. research I synthesize field data with spatial data collected from remote sensing satelites and big biodiversity databases to answer questions on ant community assembly. My goal is to understand the ecological relationships that connect factors measured at tiny scales like ant morphological traits and large scales like species ranges.
