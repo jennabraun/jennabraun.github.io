@@ -11,9 +11,12 @@ about:
     # (additional links excluded for brevity)
 ---
 
-
 <!-- Google tag (gtag.js) -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTHFDYLV3H"></script>
+```
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -21,9 +24,8 @@ about:
 
   gtag('config', 'G-FTHFDYLV3H');
 </script>
-
-
-
+```
+<!-- -->
 
 ### Jenna Braun
 
@@ -42,5 +44,3 @@ about:
 -   MSc in Biology, 2018, York University
 
 -   HBSc in Biology and Environmental Science, minor in Geographic Information Systems, 2016, McMaster University
-
-<!-- -->
