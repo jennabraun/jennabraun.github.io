@@ -1,6 +1,7 @@
 ---
 title: ""
 image: portrait.jpg
+toc: false
 about:
   template: trestles
   image-shape: round
@@ -45,4 +46,4 @@ I have collaborated with US federal agencies on endangered species research and 
   - Thesis: *Pollinator-mediated interactions of foundation plants in the Mojave Desert*
 
 - **Honours BSc, Biology & Environmental Science (Summa Cum Laude)** | McMaster University | 2012–2016
-  - Minor: Geographic Information Systems
+Minor: Geographic Information Systems

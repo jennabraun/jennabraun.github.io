@@ -1,6 +1,7 @@
 ---
 title: "Research Interests"
 editor: visual
+page-layout: full
 ---
 
 ## Current Research

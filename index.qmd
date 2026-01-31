@@ -1,3 +1,52 @@
 ---
+title: ""
+image: portrait.jpg
+page-layout: full
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jenna-braun-889aba90/
+    - icon: github
+      text: GitHub
+      href: https://github.com/jennabraun
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/braunj.bsky.social
+    - icon: binoculars
+      text: iNaturalist
+      href: https://www.inaturalist.org/people/braunj 
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Xt98RMkAAAAJ&hl=en
+---
+
+### Jenna Braun
+
+I am a community ecologist and data scientist studying plant-insect interactions in dryland ecosystems. My research synthesizes field experiments with computational methods including species distribution modeling, machine learning, and remote sensing to address questions in conservation and environmental management.
+
+I have collaborated with US federal agencies on endangered species research and am committed to open science practices that enhance the accessibility and impact of ecological research. I currently serve as Handling Editor for EcoEvoRxiv.
+
+## Research Interests
+
+- Desert community ecology & climate change
+- Plant-insect interactions
+- Endangered species conservation & habitat modeling
+- Species distribution modeling & remote sensing
+- Reproducible data analysis in R
+
+## Education
+
+- **PhD, Biology** | York University | 2020–2026 (expected)
+  - Thesis: *Causes and consequences of desert ant community assembly*
+
+- **MSc, Biology (Distinction)** | York University | 2016–2018
+  - Thesis: *Pollinator-mediated interactions of foundation plants in the Mojave Desert*
+
+- **Honours BSc, Biology & Environmental Science (Summa Cum Laude)** | McMaster University | 2012–2016
+  - Minor: Geographic Information Systems
 
 ---

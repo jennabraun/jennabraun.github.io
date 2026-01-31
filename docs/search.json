@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Posts",
+    "title": "jennabraun.github.io",
     "section": "",
-    "text": "Diversity data wrangling for the vegan package\n\n\n\nanalysis\n\nR\n\necology\n\ndata wrangling\n\n\n\nTutorial in R for formatting data for analysis in the vegan package\n\n\n\n\n\nOct 4, 2019\n\n\n\n\n\nNo matching items"
+    "text": "I am a community ecologist and data scientist studying plant-insect interactions in dryland ecosystems. My research synthesizes field experiments with computational methods including species distribution modeling, machine learning, and remote sensing to address questions in conservation and environmental management.\nI have collaborated with US federal agencies on endangered species research and am committed to open science practices that enhance the accessibility and impact of ecological research. I currently serve as Handling Editor for EcoEvoRxiv."
   },
   {
     "objectID": "posts/2019/index.html",
@@ -68,5 +68,19 @@
     "title": "jennabraun.github.io",
     "section": "Research Interests",
     "text": "Research Interests\n\nDesert community ecology & climate change\nPlant-insect interactions\nEndangered species conservation & habitat modeling\nSpecies distribution modeling & remote sensing\nReproducible data analysis in R"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "jennabraun.github.io",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nDesert community ecology & climate change\nPlant-insect interactions\nEndangered species conservation & habitat modeling\nSpecies distribution modeling & remote sensing\nReproducible data analysis in R"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "jennabraun.github.io",
+    "section": "Education",
+    "text": "Education\n\nPhD, Biology | York University | 2020–2026 (expected)\n\nThesis: Causes and consequences of desert ant community assembly\n\nMSc, Biology (Distinction) | York University | 2016–2018\n\nThesis: Pollinator-mediated interactions of foundation plants in the Mojave Desert\n\nHonours BSc, Biology & Environmental Science (Summa Cum Laude) | McMaster University | 2012–2016\n\nMinor: Geographic Information Systems"
   }
 ]
