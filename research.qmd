@@ -4,17 +4,15 @@ editor: visual
 page-layout: full
 ---
 
-## Current Research
+## PhD Research
 
-For my PhD research, I synthesize field data with spatial data collected from remote sensing satellites and large biodiversity databases to answer questions about ant community assembly in the Mojave Desert. My goal is to understand the ecological relationships that connect factors measured at tiny scales, like ant morphological traits, to large scales like species ranges and projected climate change scenarios.
+For my PhD research, I synthesized field data with spatial data collected from remote sensing satellites and large biodiversity databases to answer questions about ant community assembly in the Mojave Desert. My goal was to understand the ecological relationships that connect factors measured at tiny scales, like ant morphological traits, to large scales like species ranges and projected climate change scenarios.
 
 ## Research Themes
 
 ### Desert Ant Community Ecology & Climate Change
 
-My doctoral research investigates how environmental filtering shapes desert ant communities across spatial scales, from local microhabitats to regional climatic gradients. I use species distribution modeling to forecast how climate change will alter plant-ant mutualisms, and conduct field experiments to understand how resource availability mediates ant-plant interactions.
-
-**Braun, J.**, & Lortie, C. J. (under review). Environmental filtering influences ant-seed interactions through bottom-up effects on plant and ant functional traits along a desert climatic gradient. *Oecologia*.
+My doctoral research investigated how environmental filtering shapes desert ant communities across spatial scales, from local microhabitats to regional climatic gradients. I used species distribution modeling to forecast how climate change will alter plant-ant mutualisms, and conducted field experiments to understand how resource availability mediates ant-plant interactions.
 
 **Braun, J.**, & Lortie, C. J. (2025). Projected climate change scenarios spatially decouple desert extrafloral nectary-bearing plant-ant interactions. *Journal of Biogeography*. \[Link to article\]
 
@@ -24,7 +22,7 @@ My doctoral research investigates how environmental filtering shapes desert ant 
 
 ### Endangered Species Conservation & Habitat Modeling
 
-I have collaborated extensively with US federal agencies on research supporting endangered species recovery. As Principal Investigator on a Bureau of Land Management contract, I led research characterizing arthropod prey availability for the blunt-nosed leopard lizard (*Gambelia sila*). This work combined field surveys, habitat suitability modeling, and remote sensing to inform land management and species recovery planning. I also contributed to research by classifying satelite data and creating resource selection models, and conducting systematic literature reviews to support conservation planning.
+I have collaborated extensively with US federal agencies on research supporting endangered species recovery. As Principal Investigator on a Bureau of Land Management contract, I led research characterizing arthropod prey availability for the blunt-nosed leopard lizard (*Gambelia sila*). This work combined field surveys, habitat suitability modeling, and remote sensing to inform land management and species recovery planning. I also contributed to research by classifying satellite data and creating resource selection models, and conducting systematic literature reviews to support conservation planning.
 
 King, R., **Braun, J.**, Westphal, M., & Lortie, C. J. (2025). Prey distribution mapping to support conservation planning. *Diversity and Distributions*. \[Link to article\]
 

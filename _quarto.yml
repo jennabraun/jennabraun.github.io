@@ -5,7 +5,7 @@ project:
   
 
 website:
-  title: "jennabraun.github.io"
+  title: "Jenna Braun"
   navbar:
     left:
       - href: index.qmd
@@ -21,4 +21,3 @@ format:
     include-in-header: analytics.html
 
 editor: visual
-
