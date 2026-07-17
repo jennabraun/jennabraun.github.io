@@ -14,21 +14,21 @@ For my PhD research, I synthesized field data with spatial data collected from r
 
 My doctoral research investigated how environmental filtering shapes desert ant communities across spatial scales, from local microhabitats to regional climatic gradients. I used species distribution modeling to forecast how climate change will alter plant-ant mutualisms, and conducted field experiments to understand how resource availability mediates ant-plant interactions.
 
-**Braun, J.**, & Lortie, C. J. (2025). Projected climate change scenarios spatially decouple desert extrafloral nectary-bearing plant-ant interactions. *Journal of Biogeography*. \[Link to article\]
+**Braun, J.**, & Lortie, C. J. (2025). Projected climate change scenarios spatially decouple desert extrafloral nectary-bearing plant-ant interactions. *Journal of Biogeography*. [Link to article](https://doi.org/10.1111/jbi.70039)
 
-**Braun, J.**, & Lortie, C. J. (2025). Experimental resource supplementation shifts ant-mediated defense on silver cholla. *Journal of Ecology*. \[Link to article\]
+**Braun, J.**, & Lortie, C. J. (2025). Experimental resource supplementation shifts ant-mediated defense on silver cholla. *Journal of Ecology*. [Link to article](https://doi.org/10.1111/1365-2745.70178)
 
-**Braun, J.**, & Lortie, C. J. (2024). Environmental filtering mediates desert ant community assembly at two spatial scales. *Oecologia*. \[Link to article\]
+**Braun, J.**, & Lortie, C. J. (2024). Environmental filtering mediates desert ant community assembly at two spatial scales. *Oecologia*. [Link to article](https://doi.org/10.1007/s00442-024-05559-2)
 
 ### Endangered Species Conservation & Habitat Modeling
 
 I have collaborated extensively with US federal agencies on research supporting endangered species recovery. As Principal Investigator on a Bureau of Land Management contract, I led research characterizing arthropod prey availability for the blunt-nosed leopard lizard (*Gambelia sila*). This work combined field surveys, habitat suitability modeling, and remote sensing to inform land management and species recovery planning. I also contributed to research by classifying satellite data and creating resource selection models, and conducting systematic literature reviews to support conservation planning.
 
-King, R., **Braun, J.**, Westphal, M., & Lortie, C. J. (2025). Prey distribution mapping to support conservation planning. *Diversity and Distributions*. \[Link to article\]
+King, R., **Braun, J.**, Westphal, M., & Lortie, C. J. (2025). Prey distribution mapping to support conservation planning. *Diversity and Distributions*. [Link to article](https://doi.org/10.1111/ddi.70048)
 
-**Braun, J.**, Westphal, M., Goldgisser, M., Padula, K., Ramirez, K., English, J., Evans, J., Statham, M., Fesnock, A., & Lortie, C. J. (2024). Environmental drivers of arthropod communities across the endangered predator *Gambelia sila*'s current and historic range. *Conservation Science and Practice*. \[Link to article\]
+**Braun, J.**, Westphal, M., Goldgisser, M., Padula, K., Ramirez, K., English, J., Evans, J., Statham, M., Fesnock, A., & Lortie, C. J. (2024). Environmental drivers of arthropod communities across the endangered predator *Gambelia sila*'s current and historic range. *Conservation Science and Practice*. [Link to article](https://doi.org/10.1111/csp2.13288)
 
-Lortie, C. J., **Braun, J.**, King, R., & Westphal, M. (2023). The importance of open data describing prey item species lists for endangered species. *Ecological Solutions and Evidence*. \[Link to article\]
+Lortie, C. J., **Braun, J.**, King, R., & Westphal, M. (2023). The importance of open data describing prey item species lists for endangered species. *Ecological Solutions and Evidence*. [Link to article](https://doi.org/10.1002/2688-8319.12251)
 
 Lortie, C. J., **Braun, J.**, Westphal, M., Noble, T., Zuliani, M., Nix, E., Ghazian, N., Owen, M., & Butterfield, H. S. (2020). Shrub and vegetation cover predict resource selection use by an endangered species of desert lizard. *Scientific Reports*, *10*, 4657. [Link to article](https://www.nature.com/articles/s41598-020-61880-9)
 
@@ -36,11 +36,11 @@ Lortie, C. J., **Braun, J.**, Westphal, M., Noble, T., Zuliani, M., Nix, E., Gha
 
 Foundation plant species such as shrubs play critical roles in structuring desert communities by ameliorating harsh environmental conditions. My research examines how shrubs facilitate arthropod and plant communities across climatic gradients, and how increasing aridity under climate change may alter these positive interactions.
 
-Zuliani, M., Chen, S., **Braun, J.**, Owen, E., & Lortie, C. J. (2025). The effects of conspecific *Cylindropuntia ramosissima* density on morphology and animal associations in the Mojave Desert, California. *The Southwestern Naturalist*. \[Link to article\]
+Zuliani, M., Chen, S., **Braun, J.**, Owen, E., & Lortie, C. J. (2025). The effects of conspecific *Cylindropuntia ramosissima* density on morphology and animal associations in the Mojave Desert, California. *The Southwestern Naturalist*. [Link to article](https://doi.org/10.1894/0038-4909-70.1.3)
 
-Lortie, C. J., Liczner, A., Ruttan, A., **Braun, J.**, Sotomayor, D., Westphal, M., King, R., & Filazzola, A. (2024). Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity. *Oikos*. \[Link to article\]
+Lortie, C. J., Liczner, A., Ruttan, A., **Braun, J.**, Sotomayor, D., Westphal, M., King, R., & Filazzola, A. (2024). Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity. *Oikos*. [Link to article](https://doi.org/10.1111/oik.10292)
 
-Lucero, J., Filazzola, A., Callaway, R., **Braun, J.**, Ghazian, N., Haas, S., Miguel, F., Owen, M., Seifan, M., Zuliani, M., & Lortie, C. J. (2022). Increasing global aridity destabilizes shrub facilitation of exotic but not native plant species. *Global Ecology and Conservation*. \[Link to article\]
+Lucero, J., Filazzola, A., Callaway, R., **Braun, J.**, Ghazian, N., Haas, S., Miguel, F., Owen, M., Seifan, M., Zuliani, M., & Lortie, C. J. (2022). Increasing global aridity destabilizes shrub facilitation of exotic but not native plant species. *Global Ecology and Conservation*. [Link to article](https://doi.org/10.1016/j.gecco.2022.e02345)
 
 **Braun, J.**, Westphal, M., & Lortie, C. J. (2021). The shrub *Ephedra californica* facilitates arthropod communities along a regional desert climatic gradient. *Ecosphere*, *12*(9), e03760. [Link to article](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3760)
 
@@ -62,7 +62,7 @@ My Master's research investigated how foundation shrubs influence pollinator vis
 
 Invasive grasses such as *Bromus rubens* (red brome) threaten native plant communities across western North American deserts. My research examines the competitive effects of invasive grasses on native annual plants and how factors like water availability, seed density, and light intensity mediate invasion outcomes.
 
-**Braun, J.**, Lucero, J., Lortie, C. J., & Fox, N. (2023). Competitive effects of an invasive grass species on native annuals are species-specific and independent of water availability. *Biological Invasions*. \[Link to article\]
+**Braun, J.**, Lucero, J., Lortie, C. J., & Fox, N. (2023). Competitive effects of an invasive grass species on native annuals are species-specific and independent of water availability. *Biological Invasions*. [Link to article](https://doi.org/10.1007/s10530-023-03127-y)
 
 Ghazian, N., **Braun, J.**, Owen, M., Lortie, C. J., & Cho, C. (2021). Seed aggregation tips the scale in plant competition. *Community Ecology*, *22*(3), 403–412. [Link to article](https://link.springer.com/content/pdf/10.1007/s42974-021-00064-5.pdf)
 
